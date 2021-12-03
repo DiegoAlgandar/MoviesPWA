@@ -88,7 +88,7 @@ form.addEventListener("submit", (e) => {
 });
 
 function home() {
-    window.location.replace('/')
+    window.location.replace('/MoviesPWA')
 }
 function changePage() {
     const value = option.value
